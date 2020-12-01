@@ -21,14 +21,14 @@ namespace ValidationGCSE
 
 
 
-            //3) User should enter a even number, continue to promt the uer until they enter an even number
-
+            //3) User should enter a even number, continue to prompt the uer until they enter an even number
+            //  Modulus coulf be useful here
 
 
 
             //FORMAT
             //4 User should enter a string that contains a @ and a .(full stop) continue to prompt the
-            // user until they enter a valid number.
+            // user until they enter a valid string.
 
 
 
@@ -39,7 +39,7 @@ namespace ValidationGCSE
             //prompted for their password
 
 
-            // EXTENSION TYPE
+            // EXTENSION Validation - TYPE
             // User should enter a double(as a string. The program should continue to
             // prompt the user until they enter a string that can be converted to a double
             // eg hello is invalid, 47.89 is valid
