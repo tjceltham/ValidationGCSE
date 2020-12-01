@@ -6,12 +6,14 @@ namespace ValidationGCSE
     {
         static void Main(string[] args)
         {
-            // Validation Tasks- write the validation routines described below. You will have to use 
-            // indefinte iteration, not for loops!
+            // Validation Tasks- write the validation routines described below under each comment
+            // You will have to use indefinte iteration, not for loops!
 
             // LENGTH
             // 1) user should enter a password(string) with more than 4 characters and less than 10
             // keep prompting the user for a password until they enter one of a valid length
+
+
 
 
 
@@ -45,7 +47,8 @@ namespace ValidationGCSE
             // eg hello is invalid, 47.89 is valid
 
 
-
+            // Extension Validation FORMAT
+            // validate a postcode entered by the user
 
 
 
